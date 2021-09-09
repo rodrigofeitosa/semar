@@ -1,185 +1,369 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<versaocentralxml>
-	<versao ID='v1.173b.17'>
-		<novidade tipo='correcao'>Ajuste nas TAGS de CNPJ/CPF.</novidade>
-	</versao>
-	<versao ID='v1.173a.17'>
-		<novidade tipo='correcao'>Ajuste na tag TOMA4 para importação de CTe.</novidade>
-	</versao>
-	<versao ID='v1.172a.17'>
-		<novidade tipo='correcao'>Ajuste na coluna Nota Fiscal do relatorio SMRELXML.</novidade>
-		<novidade tipo='correcao'>Ajuste na gravação dos valores referente a ICMS e ICMS ST</novidade>
-		<novidade tipo='correcao'>Ajuste na importação de NFe's de devolução.</novidade>
-	</versao>
-	<versao ID='v1.171a.17'>
-		<novidade tipo='correcao'>Ajuste na rotina de impressão do DACTE.</novidade>
-		<novidade tipo='correcao'>Ajuste no ponto de entrada MT116GRV para gravar o % de ICMS para NFe de devolução.</novidade>
-		<novidade tipo='correcao'>Ajustes na rotina de importação de CTe.</novidade>
-		<novidade tipo='inclusao'>Adicionada nova coluna "Nome Arquivo" na tela de seleção de NFe/CTe.</novidade>
-	</versao>
-	<versao ID='v1.166b.17'>
-		<novidade tipo='correcao'>Ajuste no tratamento do tomador do serviço ao importar CTe's.</novidade>
-	</versao>
-	<versao ID='v1.166a.17'>
-		<novidade tipo='correcao'>Ajuste na informação apresentada no campo de observação para alguns tipos de CTe.</novidade>
-	</versao>
-	<versao ID='v1.164a.17'>
-		<novidade tipo='correcao'>Correção da Ciência automatica utilizando novo webservice.</novidade>
-	</versao>
-	<versao ID='v1.163a.17'>
-		<novidade tipo='inclusao'>Adicionado novo espaço na tela para observações(CTE)/Informações complementares(NFE).</novidade>
-		<novidade tipo='inclusao'>Adicionado 2 novos parametros</novidade>
-		<novidade tipo='inclusao'>Nova tela ao utilizar o botão "Procurar NFe" para que o usuário informe se deseja continuar da pesquisar anterior ou pesquisar os 90 dias completos.</novidade>
-	</versao>
-	<versao ID='v1.162a.17'>
-		<novidade tipo='correcao'>Correções diversas - JOB.</novidade>
-	</versao>
-	<versao ID='v1.159b.17'>
-		<novidade tipo='correcao'>Ajustes nas novas colunas do email(job) para se adequar ao novo webservice.</novidade>
-	</versao>
-	<versao ID='v1.159a.17'>
-		<novidade tipo='correcao'>Ajustes para utilização do novo webservice via job.</novidade>
-	</versao>
-	<versao ID='v1.158a.17'>
-		<novidade tipo='inclusao'>Adicionado novo metodo para download de notas obedecendo o novo webservice da sefaz.</novidade>
-	</versao>
-	<versao ID='v1.139a.17'>
-		<novidade tipo='correcao'>Ajuste na captura e amarração da NFe-s de origem para notas de devolução com duas ou mais notas de origem.</novidade>
-		<novidade tipo='correcao'>Ajuste na verificação da tag finNFe.</novidade>
-		<novidade tipo='inclusao'>Adicionada amarração automatica para notas de devolução.</novidade>
-	</versao>
-	<versao ID='v1.138b.17'>
-		<novidade tipo='correcao'>Ajuste na tela de manifesto para utilizar os novos campos da tabela ZN1 caso existam.</novidade>
-		<novidade tipo='inclusao'>Adicionado 4 novos campos na tabela ZN1, os mesmo serão preenchidos no momento de busca por NFe's.</novidade>
-		<novidade tipo='correcao'>Ajuste na função danfeView para evitar espaços em branco.</novidade>
-	</versao>
-	<versao ID='v1.138a.17'>
-		<novidade tipo='inclusao'>Incluidos os campos "Tipo NFE","Data/Hora Recbto","Situação NFE","Situação Manifesto" na tela de manifesto.</novidade>
-		<novidade tipo='inclusao'>Nova validação e tratamento para divergencia no valor unitario da NFe de devolução e a NFe de origem.</novidade>
-		<novidade tipo='correcao'>Adicionado campo de fornecedor na função de Refresh.</novidade>
-		<novidade tipo='correcao'>Ajuste na amarração do produto na tela de devolução.</novidade>
-	</versao>
-	<versao ID='v1.135a.17'>
-		<novidade tipo='inclusao'>Adicionado novo filtro por Numero NF na tela de manifesto.</novidade>
-		<novidade tipo='inclusao'>Incluido os campos "Numero NF" e "Serie" na tela de manifesto.</novidade>
-		<novidade tipo='correcao'>Ajuste na query para tratar erro no filtro.</novidade>
-	</versao>
-	<versao ID='v1.134a.17'>
-		<novidade tipo='correcao'>Ajustes diversos na tela de manifesto utilizando nova classe gráfica.</novidade>
-		<novidade tipo='correcao'>Ajustes na importação de NFe de devolução com tag's de IPI faltando no xml.</novidade>
-	</versao>
-	<versao ID='v1.131a.17'>
-		<novidade tipo='correcao'>Ajuste no titulo da janela de rateio.</novidade>
-		<novidade tipo='correcao'>Ajuste para tratar XML's que não contém a tag de CEP para o emitente.</novidade>
-	</versao>
-	<versao ID='v1.130a.17'>
-		<novidade tipo='correcao'>Ajustes diversos na tela de manifesto.</novidade>
-	</versao>
-	<versao ID='v1.129a.17'>
-		<novidade tipo='correcao'>Ajustes na importação de NFe de devolução.</novidade>
-	</versao>
-	<versao ID='v1.128a.17'>
-		<novidade tipo='inclusao'>Nova tela de aviso para os arquivos de CTe cujo CNPJ do destinatario não bater com o CNJP da empresa/filial corrente.</novidade>
-	</versao>
-	<versao ID='v1.125b.17'>
-		<novidade tipo='inclusao'>Adicionado botão para visualizar DANFE ao clicar com botão direito no registro da tela de seleção.</novidade>
-		<novidade tipo='correcao'>Alteradas algumas funções para tratar o novo botão "Visualizar DANFE".</novidade>
-	</versao>
-	<versao ID='v1.125a.17'>
-		<novidade tipo='correcao'>Ajuste na mensagem apresentada ao final da importaçao para NFe de devolução.</novidade>
-	</versao>
-	<versao ID='v1.124b.17'>
-		<novidade tipo='correcao'>Ajustes na rotina verificaFornecedor para tratar fornecedor ou cliente de acordo com tipo da nota.</novidade>
-		<novidade tipo='inclusao'>Adicionado nova rotina carregaXML.</novidade>
-		<novidade tipo='correcao'>Ajustes na rotina Disp, para tratar a impotação de documentos sem fornecedor e/ou cliente.</novidade>
-	</versao>
-	<versao ID='v1.124a.17'>
-		<novidade tipo='inclusao'>Adicionado novo indice ao array do pedido de compras para armazenar a descrição do produto.</novidade>
-		<novidade tipo='inclusao'>Nova regra ao gerar a pré-nota caso a empresa utilize o campo D1_DESCRI.</novidade>
-	</versao>
-	<versao ID='v1.122a.17'>
-		<novidade tipo='correcao'>Ajustes no array do cadastro de produtos para CTe.</novidade>
-		<novidade tipo='inclusao'>Adicionado novo checkbox que por padrão já vem marcado, filtrando apenas as notas de mercadoria que compõem a cte. Pode ser desmarcado,exibindo as demais.</novidade>
-		<novidade tipo='inclusao'>Adicionado novo campo para informar o tipo de Frete ao importar CTe, o mesmo pode vim direto do pedido de compra se preenchido.</novidade>
-	</versao>
-	<versao ID='v1.118a.17'>
-		<novidade tipo='alteracao'>Ajustes no email do job, agora o mesmo está indo com o totalizador por tipo de arquivo.</novidade>
-		<novidade tipo='inclusao'>Incorporado a busca por CTe via Botão.</novidade>
-		<novidade tipo='correcao'>Ajustes na função de Seek do fonte smXMLaSefaz</novidade>
-	</versao>
-	<versao ID='v1.117a.17'>
-		<novidade tipo='alteracao'>Ajustes no email do job, agora o mesmo está indo com o totalizador por tipo de arquivo.</novidade>
-		<novidade tipo='inclusao'>Incorporado a busca por CTe via Botão.</novidade>
-		<novidade tipo='inclusao'>Incorporado a busca por CTe via JOB</novidade>
-	</versao>
-	<versao ID='v1.116e.17'>
-		<novidade tipo='alteracao'>Adicionado o filtro por FILIAL para o registros na tela de importação CTe.</novidade>
-		<novidade tipo='alteracao'>Alterada chamada de envio do relatorio de execução do JOB para trabalhar com os novos parametros.</novidade>
-		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMFILEV para definir de qual filial o email do job será enviado.</novidade>
-		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMEMPEV para definir de qual empresa o email do job será enviado.</novidade>
-		<novidade tipo='alteracao'>Adicionado periodo de busca no corpo do Email do relatorio de execução do JOB.</novidade>
-	</versao>
-	<versao ID='v1.116d.17'>
-		<novidade tipo='correcao'>Ajustes na rotina de amarração para funcionar com a estrutura antiga e nova da tabela ZUM.</novidade>
-	</versao>
-	<versao ID='v1.116c.17'>
-		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMVERCX que contem a versão corrente da Central XML.</novidade>
-		<novidade tipo='inclusao'>Adicionado o parametro MV_SMVERCX no wizard de configuração.</novidade>
-		<novidade tipo='correcao'>Ajustado fonte SMXMLUMXPC para trabalhar o browser corretamente mesmo na versão antiga da tabela ZUM.</novidade>
-		<novidade tipo='correcao'>Ajustado array de amarração do produto, quando o mesmo for informado diretamente na linha. Igualado ao gerado por amarração.</novidade>
-	</versao>
-	<versao ID='v1.116b.17'>
-		<novidade tipo='correcao'>Ajustes na exibição e gravação do parametro MV_SMLIMVL dentro do Wizard de configuração.</novidade>
-	</versao>
-	<versao ID='v1.116a.17'>
-		<novidade tipo='atualizacao'>Atualizado o relatorio SMIMP2XML com a versão mais recente.</novidade>
-	</versao>
-	<versao ID='v1.115d.17'>
-		<novidade tipo='inclusao'>Adicionada nova função estática para tratar os arquivos processados pela Central XML.</novidade>
-		<novidade tipo='alteracao'>Alterada a função que sincroniza as pastas para utilizar a nova função de tratamento dos arquivos.</novidade>
-		<novidade tipo='correcao'>Ajustes na função que sincroniza as pastas para tratar apenas os arquivos que sejam do CGC da unidade corrente.</novidade>
-	</versao>
-	<versao ID='v1.115c.17'>
-		<novidade tipo='correcao'>Ajustes na função de seleção de arquivos a serem importados, foi incorporado o novo parametro para correta criação de estrutura de pastas locais.</novidade>
-	</versao>
-	<versao ID='v1.115b.17'>
-		<novidade tipo='correcao'>Ajustes na função de validação do Pedido informado, visando sanar uma situação que a função antiga não conseguia localizar o mesmo.</novidade>
-	</versao>
-	<versao ID='v1.115a.17'>
-		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMINFLP para determinar se o armazem padrão deve ser informado no momento da importação da pré-nota.</novidade>
-		<novidade tipo='inclusao'>Ajustes diversos para tratar o campo de armazem padrão.</novidade>
-	</versao>
-	<versao ID='v1.114a.17'>
-		<novidade tipo='correcao'>Ajustes na chamada da classe SMEMAIL dentro da rotina de pequisa por NFe (Job).</novidade>
-	</versao>
-	<versao ID='v1.110a.17'>
-		<novidade tipo='inclusao'>Adicionada nova classe SMEMAIL para tratar o envio de email dentro da Central XML.</novidade>
-		<novidade tipo='inclusao'>Alterada rotina de pesquisa por NFe para utilizar a classe SMEMAIL para montar/enviar o email.</novidade>
-	</versao>
-	<versao ID='v1.109a.17'>
-		<novidade tipo='inclusao'>Adicionado nivel de acesso para acessar o Wizard de configuração.</novidade>
-		<novidade tipo='inclusao'>Adicionado nivel de acesso para acessar o botão de manifesto.</novidade>
-	</versao>
-	<versao ID='v1.103a.17'>
-		<novidade tipo='inclusao'>Adicionada nova classe SMCTE para tratar os webservices referentes a CTe dentro da Central XML.</novidade>
-	</versao>
-	<versao ID='v1.083a.17'>
-		<novidade tipo='inclusao'>Novo parametro para definir se a unidade deve utilizar a manifestação (ciencia) automatica para todas as NFe's localizadas na busca.</novidade>
-		<novidade tipo='correcao'>Atualizada a rotina de manifestação automatica para funcionar com o novo parametro e também com a regra antiga, além de adicionar o novo metado de manifestação.</novidade>
-		<novidade tipo='inclusao'>Adicionado os novos parametros no Wizard de configuração.</novidade>
-	</versao>
-	<versao ID='v1.082a.17'>
-		<novidade tipo='inclusao'>Novo parametro para definir se a unidade pode alterar o numero da nota ao importar (zeros a esquerda).</novidade>
-		<novidade tipo='inclusao'>Novo parametro para definir se a unidade pode utilizar o botão de amarração.</novidade>
-		<novidade tipo='inclusao'>Amarração através do PC. Ao informar um item do pedido de compra diretamente na linha do browser, o mesmo será vinculado ao produto correspondente.</novidade>
-	</versao>
-	<versao ID='v1.081a.17'>
-		<novidade tipo='inclusao'>Novo parametro para definir se a unidade deve utilizar um CNPJ especifico nos WS's</novidade>
-		<novidade tipo='correcao'>Ajuste na rotina de busca por notas para exibir corretamente o motivo da falha caso ocorra.</novidade>
-		<novidade tipo='correcao'>Ajuste no wizard de configuração, novos parametros adicionais assim como a definição de compartilhamento dos mesmos.</novidade>
-	</versao>
-	<versao ID='v1.327a.16'>
-		<novidade tipo='inclusao'>Adicionado funcao responsavel pelo Changelog.</novidade>
-		<novidade tipo='correcao'>Adicionado o preenchimento do campo A2_FILIAL ao criar novo fornecedor.</novidade>
-	</versao>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<versaocentralxml>
+
+	<versao ID='v1.173b.17'>
+
+		<novidade tipo='correcao'>Ajuste nas TAGS de CNPJ/CPF.</novidade>
+
+	</versao>
+
+	<versao ID='v1.173a.17'>
+
+		<novidade tipo='correcao'>Ajuste na tag TOMA4 para importação de CTe.</novidade>
+
+	</versao>
+
+	<versao ID='v1.172a.17'>
+
+		<novidade tipo='correcao'>Ajuste na coluna Nota Fiscal do relatorio SMRELXML.</novidade>
+
+		<novidade tipo='correcao'>Ajuste na gravação dos valores referente a ICMS e ICMS ST</novidade>
+
+		<novidade tipo='correcao'>Ajuste na importação de NFe's de devolução.</novidade>
+
+	</versao>
+
+	<versao ID='v1.171a.17'>
+
+		<novidade tipo='correcao'>Ajuste na rotina de impressão do DACTE.</novidade>
+
+		<novidade tipo='correcao'>Ajuste no ponto de entrada MT116GRV para gravar o % de ICMS para NFe de devolução.</novidade>
+
+		<novidade tipo='correcao'>Ajustes na rotina de importação de CTe.</novidade>
+
+		<novidade tipo='inclusao'>Adicionada nova coluna "Nome Arquivo" na tela de seleção de NFe/CTe.</novidade>
+
+	</versao>
+
+	<versao ID='v1.166b.17'>
+
+		<novidade tipo='correcao'>Ajuste no tratamento do tomador do serviço ao importar CTe's.</novidade>
+
+	</versao>
+
+	<versao ID='v1.166a.17'>
+
+		<novidade tipo='correcao'>Ajuste na informação apresentada no campo de observação para alguns tipos de CTe.</novidade>
+
+	</versao>
+
+	<versao ID='v1.164a.17'>
+
+		<novidade tipo='correcao'>Correção da Ciência automatica utilizando novo webservice.</novidade>
+
+	</versao>
+
+	<versao ID='v1.163a.17'>
+
+		<novidade tipo='inclusao'>Adicionado novo espaço na tela para observações(CTE)/Informações complementares(NFE).</novidade>
+
+		<novidade tipo='inclusao'>Adicionado 2 novos parametros</novidade>
+
+		<novidade tipo='inclusao'>Nova tela ao utilizar o botão "Procurar NFe" para que o usuário informe se deseja continuar da pesquisar anterior ou pesquisar os 90 dias completos.</novidade>
+
+	</versao>
+
+	<versao ID='v1.162a.17'>
+
+		<novidade tipo='correcao'>Correções diversas - JOB.</novidade>
+
+	</versao>
+
+	<versao ID='v1.159b.17'>
+
+		<novidade tipo='correcao'>Ajustes nas novas colunas do email(job) para se adequar ao novo webservice.</novidade>
+
+	</versao>
+
+	<versao ID='v1.159a.17'>
+
+		<novidade tipo='correcao'>Ajustes para utilização do novo webservice via job.</novidade>
+
+	</versao>
+
+	<versao ID='v1.158a.17'>
+
+		<novidade tipo='inclusao'>Adicionado novo metodo para download de notas obedecendo o novo webservice da sefaz.</novidade>
+
+	</versao>
+
+	<versao ID='v1.139a.17'>
+
+		<novidade tipo='correcao'>Ajuste na captura e amarração da NFe-s de origem para notas de devolução com duas ou mais notas de origem.</novidade>
+
+		<novidade tipo='correcao'>Ajuste na verificação da tag finNFe.</novidade>
+
+		<novidade tipo='inclusao'>Adicionada amarração automatica para notas de devolução.</novidade>
+
+	</versao>
+
+	<versao ID='v1.138b.17'>
+
+		<novidade tipo='correcao'>Ajuste na tela de manifesto para utilizar os novos campos da tabela ZN1 caso existam.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado 4 novos campos na tabela ZN1, os mesmo serão preenchidos no momento de busca por NFe's.</novidade>
+
+		<novidade tipo='correcao'>Ajuste na função danfeView para evitar espaços em branco.</novidade>
+
+	</versao>
+
+	<versao ID='v1.138a.17'>
+
+		<novidade tipo='inclusao'>Incluidos os campos "Tipo NFE","Data/Hora Recbto","Situação NFE","Situação Manifesto" na tela de manifesto.</novidade>
+
+		<novidade tipo='inclusao'>Nova validação e tratamento para divergencia no valor unitario da NFe de devolução e a NFe de origem.</novidade>
+
+		<novidade tipo='correcao'>Adicionado campo de fornecedor na função de Refresh.</novidade>
+
+		<novidade tipo='correcao'>Ajuste na amarração do produto na tela de devolução.</novidade>
+
+	</versao>
+
+	<versao ID='v1.135a.17'>
+
+		<novidade tipo='inclusao'>Adicionado novo filtro por Numero NF na tela de manifesto.</novidade>
+
+		<novidade tipo='inclusao'>Incluido os campos "Numero NF" e "Serie" na tela de manifesto.</novidade>
+
+		<novidade tipo='correcao'>Ajuste na query para tratar erro no filtro.</novidade>
+
+	</versao>
+
+	<versao ID='v1.134a.17'>
+
+		<novidade tipo='correcao'>Ajustes diversos na tela de manifesto utilizando nova classe gráfica.</novidade>
+
+		<novidade tipo='correcao'>Ajustes na importação de NFe de devolução com tag's de IPI faltando no xml.</novidade>
+
+	</versao>
+
+	<versao ID='v1.131a.17'>
+
+		<novidade tipo='correcao'>Ajuste no titulo da janela de rateio.</novidade>
+
+		<novidade tipo='correcao'>Ajuste para tratar XML's que não contém a tag de CEP para o emitente.</novidade>
+
+	</versao>
+
+	<versao ID='v1.130a.17'>
+
+		<novidade tipo='correcao'>Ajustes diversos na tela de manifesto.</novidade>
+
+	</versao>
+
+	<versao ID='v1.129a.17'>
+
+		<novidade tipo='correcao'>Ajustes na importação de NFe de devolução.</novidade>
+
+	</versao>
+
+	<versao ID='v1.128a.17'>
+
+		<novidade tipo='inclusao'>Nova tela de aviso para os arquivos de CTe cujo CNPJ do destinatario não bater com o CNJP da empresa/filial corrente.</novidade>
+
+	</versao>
+
+	<versao ID='v1.125b.17'>
+
+		<novidade tipo='inclusao'>Adicionado botão para visualizar DANFE ao clicar com botão direito no registro da tela de seleção.</novidade>
+
+		<novidade tipo='correcao'>Alteradas algumas funções para tratar o novo botão "Visualizar DANFE".</novidade>
+
+	</versao>
+
+	<versao ID='v1.125a.17'>
+
+		<novidade tipo='correcao'>Ajuste na mensagem apresentada ao final da importaçao para NFe de devolução.</novidade>
+
+	</versao>
+
+	<versao ID='v1.124b.17'>
+
+		<novidade tipo='correcao'>Ajustes na rotina verificaFornecedor para tratar fornecedor ou cliente de acordo com tipo da nota.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado nova rotina carregaXML.</novidade>
+
+		<novidade tipo='correcao'>Ajustes na rotina Disp, para tratar a impotação de documentos sem fornecedor e/ou cliente.</novidade>
+
+	</versao>
+
+	<versao ID='v1.124a.17'>
+
+		<novidade tipo='inclusao'>Adicionado novo indice ao array do pedido de compras para armazenar a descrição do produto.</novidade>
+
+		<novidade tipo='inclusao'>Nova regra ao gerar a pré-nota caso a empresa utilize o campo D1_DESCRI.</novidade>
+
+	</versao>
+
+	<versao ID='v1.122a.17'>
+
+		<novidade tipo='correcao'>Ajustes no array do cadastro de produtos para CTe.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado novo checkbox que por padrão já vem marcado, filtrando apenas as notas de mercadoria que compõem a cte. Pode ser desmarcado,exibindo as demais.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado novo campo para informar o tipo de Frete ao importar CTe, o mesmo pode vim direto do pedido de compra se preenchido.</novidade>
+
+	</versao>
+
+	<versao ID='v1.118a.17'>
+
+		<novidade tipo='alteracao'>Ajustes no email do job, agora o mesmo está indo com o totalizador por tipo de arquivo.</novidade>
+
+		<novidade tipo='inclusao'>Incorporado a busca por CTe via Botão.</novidade>
+
+		<novidade tipo='correcao'>Ajustes na função de Seek do fonte smXMLaSefaz</novidade>
+
+	</versao>
+
+	<versao ID='v1.117a.17'>
+
+		<novidade tipo='alteracao'>Ajustes no email do job, agora o mesmo está indo com o totalizador por tipo de arquivo.</novidade>
+
+		<novidade tipo='inclusao'>Incorporado a busca por CTe via Botão.</novidade>
+
+		<novidade tipo='inclusao'>Incorporado a busca por CTe via JOB</novidade>
+
+	</versao>
+
+	<versao ID='v1.116e.17'>
+
+		<novidade tipo='alteracao'>Adicionado o filtro por FILIAL para o registros na tela de importação CTe.</novidade>
+
+		<novidade tipo='alteracao'>Alterada chamada de envio do relatorio de execução do JOB para trabalhar com os novos parametros.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMFILEV para definir de qual filial o email do job será enviado.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMEMPEV para definir de qual empresa o email do job será enviado.</novidade>
+
+		<novidade tipo='alteracao'>Adicionado periodo de busca no corpo do Email do relatorio de execução do JOB.</novidade>
+
+	</versao>
+
+	<versao ID='v1.116d.17'>
+
+		<novidade tipo='correcao'>Ajustes na rotina de amarração para funcionar com a estrutura antiga e nova da tabela ZUM.</novidade>
+
+	</versao>
+
+	<versao ID='v1.116c.17'>
+
+		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMVERCX que contem a versão corrente da Central XML.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado o parametro MV_SMVERCX no wizard de configuração.</novidade>
+
+		<novidade tipo='correcao'>Ajustado fonte SMXMLUMXPC para trabalhar o browser corretamente mesmo na versão antiga da tabela ZUM.</novidade>
+
+		<novidade tipo='correcao'>Ajustado array de amarração do produto, quando o mesmo for informado diretamente na linha. Igualado ao gerado por amarração.</novidade>
+
+	</versao>
+
+	<versao ID='v1.116b.17'>
+
+		<novidade tipo='correcao'>Ajustes na exibição e gravação do parametro MV_SMLIMVL dentro do Wizard de configuração.</novidade>
+
+	</versao>
+
+	<versao ID='v1.116a.17'>
+
+		<novidade tipo='atualizacao'>Atualizado o relatorio SMIMP2XML com a versão mais recente.</novidade>
+
+	</versao>
+
+	<versao ID='v1.115d.17'>
+
+		<novidade tipo='inclusao'>Adicionada nova função estática para tratar os arquivos processados pela Central XML.</novidade>
+
+		<novidade tipo='alteracao'>Alterada a função que sincroniza as pastas para utilizar a nova função de tratamento dos arquivos.</novidade>
+
+		<novidade tipo='correcao'>Ajustes na função que sincroniza as pastas para tratar apenas os arquivos que sejam do CGC da unidade corrente.</novidade>
+
+	</versao>
+
+	<versao ID='v1.115c.17'>
+
+		<novidade tipo='correcao'>Ajustes na função de seleção de arquivos a serem importados, foi incorporado o novo parametro para correta criação de estrutura de pastas locais.</novidade>
+
+	</versao>
+
+	<versao ID='v1.115b.17'>
+
+		<novidade tipo='correcao'>Ajustes na função de validação do Pedido informado, visando sanar uma situação que a função antiga não conseguia localizar o mesmo.</novidade>
+
+	</versao>
+
+	<versao ID='v1.115a.17'>
+
+		<novidade tipo='inclusao'>Adicionado novo parametro MV_SMINFLP para determinar se o armazem padrão deve ser informado no momento da importação da pré-nota.</novidade>
+
+		<novidade tipo='inclusao'>Ajustes diversos para tratar o campo de armazem padrão.</novidade>
+
+	</versao>
+
+	<versao ID='v1.114a.17'>
+
+		<novidade tipo='correcao'>Ajustes na chamada da classe SMEMAIL dentro da rotina de pequisa por NFe (Job).</novidade>
+
+	</versao>
+
+	<versao ID='v1.110a.17'>
+
+		<novidade tipo='inclusao'>Adicionada nova classe SMEMAIL para tratar o envio de email dentro da Central XML.</novidade>
+
+		<novidade tipo='inclusao'>Alterada rotina de pesquisa por NFe para utilizar a classe SMEMAIL para montar/enviar o email.</novidade>
+
+	</versao>
+
+	<versao ID='v1.109a.17'>
+
+		<novidade tipo='inclusao'>Adicionado nivel de acesso para acessar o Wizard de configuração.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado nivel de acesso para acessar o botão de manifesto.</novidade>
+
+	</versao>
+
+	<versao ID='v1.103a.17'>
+
+		<novidade tipo='inclusao'>Adicionada nova classe SMCTE para tratar os webservices referentes a CTe dentro da Central XML.</novidade>
+
+	</versao>
+
+	<versao ID='v1.083a.17'>
+
+		<novidade tipo='inclusao'>Novo parametro para definir se a unidade deve utilizar a manifestação (ciencia) automatica para todas as NFe's localizadas na busca.</novidade>
+
+		<novidade tipo='correcao'>Atualizada a rotina de manifestação automatica para funcionar com o novo parametro e também com a regra antiga, além de adicionar o novo metado de manifestação.</novidade>
+
+		<novidade tipo='inclusao'>Adicionado os novos parametros no Wizard de configuração.</novidade>
+
+	</versao>
+
+	<versao ID='v1.082a.17'>
+
+		<novidade tipo='inclusao'>Novo parametro para definir se a unidade pode alterar o numero da nota ao importar (zeros a esquerda).</novidade>
+
+		<novidade tipo='inclusao'>Novo parametro para definir se a unidade pode utilizar o botão de amarração.</novidade>
+
+		<novidade tipo='inclusao'>Amarração através do PC. Ao informar um item do pedido de compra diretamente na linha do browser, o mesmo será vinculado ao produto correspondente.</novidade>
+
+	</versao>
+
+	<versao ID='v1.081a.17'>
+
+		<novidade tipo='inclusao'>Novo parametro para definir se a unidade deve utilizar um CNPJ especifico nos WS's</novidade>
+
+		<novidade tipo='correcao'>Ajuste na rotina de busca por notas para exibir corretamente o motivo da falha caso ocorra.</novidade>
+
+		<novidade tipo='correcao'>Ajuste no wizard de configuração, novos parametros adicionais assim como a definição de compartilhamento dos mesmos</novidade>
+
+	</versao>
+
+	<versao ID='v1.327a.16'>
+
+		<novidade tipo='inclusao'>Adicionado funcao responsavel pelo Changelog.</novidade>
+
+		<novidade tipo='correcao'>Adicionado o preenchimento do campo A2_FILIAL ao criar novo fornecedor.</novidade>
+
+	</versao>
+
 </versaocentralxml>
