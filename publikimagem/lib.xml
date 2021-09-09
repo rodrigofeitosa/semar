@@ -1,0 +1,109 @@
+<liberacao-central-xml>
+	<Empresa num="01">
+		<Filial num="0101">
+			<cnpj>05688475000136</cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM MATRIZ PE</nome>
+		</Filial>
+		<Filial num="0102">
+			<cnpj>05688475000217</cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM FILIAL MG</nome>
+		</Filial>
+		<Filial num="0104">
+			<cnpj>05688475000306</cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM FILIAL AL</nome>
+		</Filial>
+		<Filial num="0107">
+			<cnpj>05688475000802</cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM FILIAL DF</nome>
+		</Filial>
+		<Filial num="0110">
+			<cnpj>05688475001299</cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM FILIAL RJ</nome>
+		</Filial>
+		<Filial num="0111">
+			<cnpj>05688475001370</cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM FILIAL MG</nome>
+		</Filial>
+		<Filial num="0112">
+			<cnpj>05688475001531</cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM FILIAL PORTO ALEGRE RS</nome>
+		</Filial>
+		<Filial num="0201">
+			<cnpj>11412683000100</cnpj>
+			<tipo>1</tipo>
+			<nome>REVERT MATRIZ PE</nome>
+		</Filial>
+		<Filial num="0202">
+			<cnpj>11412683000291</cnpj>
+			<tipo>1</tipo>
+			<nome>REVERT FILIAL MG</nome>
+		</Filial>
+		<Filial num="0301">
+			<cnpj>18253521000116</cnpj>
+			<tipo>1</tipo>
+			<nome>OLIMPIKI MATRIZ RJ</nome>
+		</Filial>
+		<Filial num="0302">
+			<cnpj>18253521000205</cnpj>
+			<tipo>1</tipo>
+			<nome>OLIMPIKI</nome>
+		</Filial>
+		<Filial num="0401">
+			<cnpj>18552221000138</cnpj>
+			<tipo>1</tipo>
+			<nome>LOGIKI - LOCADORA,TRANSPORTADORA LTDA</nome>
+		</Filial>
+		<Filial num="0501">
+			<cnpj>03392122000169</cnpj>
+			<tipo>1</tipo>
+			<nome>BVR MATRIZ PE</nome>
+		</Filial>
+		<Filial num="0502">
+			<cnpj>03392122000240</cnpj>
+			<tipo>1</tipo>
+			<nome>BVR FILIAL RECIFE</nome>
+		</Filial>
+		<Filial num="0503">
+			<cnpj>03392122000320</cnpj>
+			<tipo>1</tipo>
+			<nome>BVR FILIAL MG</nome>
+		</Filial>
+		<Filial num="0601">
+			<cnpj>19923737000104</cnpj>
+			<tipo>1</tipo>
+			<nome>GLOBALSUN BRASIL LTDA</nome>
+		</Filial>
+		<Filial num="0602">
+			<cnpj>19923737000295</cnpj>
+			<tipo>1</tipo>
+			<nome>GLOBALSUN BRASIL LTDA</nome>
+		</Filial>
+		<Filial num="0603">
+			<cnpj>19923737000376</cnpj>
+			<tipo>1</tipo>
+			<nome>GLOBALSUN BRASIL LTDA</nome>
+		</Filial>
+		<Filial num="0604">
+			<cnpj>19923737000457</cnpj>
+			<tipo>1</tipo>
+			<nome>GLOBALSUN - FILIAL BELO HORIZONTE</nome>
+		</Filial>
+	</Empresa>
+	<Empresa num="99">
+		<Filial num="01">
+		<cnpj>29067113022670</cnpj>
+		<tipo>1</tipo>
+		<nome>TESTE</nome>
+		</Filial>
+	</Empresa>
+	<chave>S8P1BBF59K1V8VBUEXMT4RDE82M79ZBIF4NZIR7L</chave>
+	<senha>abc123</senha>
+	<odbc>semar@2017</odbc>
+</liberacao-central-xml>

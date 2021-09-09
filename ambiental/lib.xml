@@ -1,0 +1,17 @@
+<liberacao-central-xml>
+	<Empresa num="01">
+		<Filial num="00101">
+			<cnpj>12141133000590</cnpj>
+			<tipo>1</tipo>
+			<nome>IRO</nome>
+		</Filial>
+		<Filial num="00199">
+			<cnpj>12141133000167</cnpj>
+			<tipo>1</tipo>
+			<nome>IRO</nome>
+		</Filial>		
+	</Empresa>
+	<chave>S8P1BBF59K1V8VBUEXMT4RDE82M79ZBIF4NZIR7L</chave>
+	<senha>abc123</senha>
+ 	<odbc>semar@2015</odbc> 
+</liberacao-central-xml>

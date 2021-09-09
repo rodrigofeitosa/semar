@@ -1,0 +1,304 @@
+<liberacao-central-xml>
+	<Empresa num="01">
+		<Filial num="001PE001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Imp.PE</nome>
+		</Filial>
+		<Filial num="001SC003">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Imp.SC</nome>
+		</Filial>
+		<Filial num="001CE002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Imp.CE</nome>
+		</Filial>
+		<Filial num="018RO002">
+			<cnpj>41947798000241</cnpj>
+			<tipo>1</tipo>
+			<nome>Norte Center Peneus Cacoal</nome>
+		</Filial>
+		<Filial num="001RO005">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Imp.RO</nome>
+		</Filial>
+		<Filial num="001RO005">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Imp.RO</nome>
+		</Filial>
+		<Filial num="002BA020">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.BA</nome>
+		</Filial>
+		<Filial num="002MG017">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.Uber</nome>
+		</Filial>
+		<Filial num="002PR018">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.PR</nome>
+		</Filial>
+		<Filial num="002ES006">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.ES</nome>
+		</Filial>
+		<Filial num="002GO003">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.GO</nome>
+		</Filial>
+		<Filial num="002GO022">
+			<cnpj>19403406002278</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist. Rio Verde</nome>
+		</Filial>
+		<Filial num="002MT002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.MT</nome>
+		</Filial>
+		<Filial num="002MT019">
+			<cnpj>19403406001972</cnpj>
+			<tipo>1</tipo>
+			<nome>Band Dist MT</nome>
+		</Filial>
+		<Filial num="002MT021">
+			<cnpj>19403406001972</cnpj>
+			<tipo>1</tipo>
+			<nome>Band. Dist. MT2</nome>
+		</Filial>
+		<Filial num="002PE001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band Dist PE</nome>
+		</Filial>
+		<Filial num="002AL014">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.AL</nome>
+		</Filial>
+		<Filial num="002BA016">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.BA</nome>
+		</Filial>
+		<Filial num="002DF011">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.DF</nome>
+		</Filial>
+		<Filial num="002MG007">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.MG</nome>
+		</Filial>
+		<Filial num="002MS010">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.MS</nome>
+		</Filial>
+		<Filial num="002PB015">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.PB</nome>
+		</Filial>
+		<Filial num="002RJ009">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.RJ</nome>
+		</Filial>
+		<Filial num="002RN012">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.RN</nome>
+		</Filial>
+		<Filial num="002RS004">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band. Dist.RS</nome>
+		</Filial>
+		<Filial num="002SC008">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.SC</nome>
+		</Filial>
+		<Filial num="002SE013">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.SE</nome>
+		</Filial>
+		<Filial num="002SP005">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.SP</nome>
+		</Filial>
+		<Filial num="003PE001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Pneu 1 PE</nome>
+		</Filial>
+		<Filial num="003SP002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Pneu 1 SP</nome>
+		</Filial>
+		<Filial num="003SC003">
+			<cnpj>00393823000396</cnpj>
+			<tipo>1</tipo>
+			<nome>Pneu 1 SC</nome>
+		</Filial>
+		<Filial num="006SP001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>MGM Distribuidora</nome>
+		</Filial>
+		<Filial num="006RS002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>MGM Dist. RS</nome>
+		</Filial>
+		<Filial num="006SP003">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>MGM DIST RIBEIRAO PRETO</nome>
+		</Filial>
+		<Filial num="007GO001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>TIRES DISTRIBUIDORA GO</nome>
+		</Filial>
+		<Filial num="007MT002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>TIRES DISTRIBUIDORA MT</nome>
+		</Filial>
+		<Filial num="008PR001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>MGT DISTRIBUIDORA PR</nome>
+		</Filial>
+		<Filial num="008MG002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>MGT DISTRIBUIDORA MG</nome>
+		</Filial>
+		<Filial num="008MG003">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>MGT UBERLANDIA</nome>
+		</Filial>
+		<Filial num="009SP002">
+			<cnpj>29508200000212</cnpj>
+			<tipo>1</tipo>
+			<nome>PNEUMAG DISTRIBUIDORA SP</nome>
+		</Filial>
+		<Filial num="009RJ001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>PNEUMAG DISTRIBUIDORA RJ</nome>
+		</Filial>
+		<Filial num="013CE001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>DISTRIBUIDORA NACIONAL CE</nome>
+		</Filial>
+		<Filial num="013CE003">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>DISTRIBUIDORA NACIONAL CRATO</nome>
+		</Filial>
+		<Filial num="013PI002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>DISTRIBUIDORA NACIONAL PI</nome>
+		</Filial>
+		<Filial num="014MA001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>AMAZONAS DIST MA</nome>
+		</Filial>
+		<Filial num="014TO002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>AMAZONAS DIST TO</nome>
+		</Filial>
+		<Filial num="014PA003">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>AMAZONAS DISTRIBUIDORA PA</nome>
+		</Filial>
+		<Filial num="014MA004">
+			<cnpj>27708255000402</cnpj>
+			<tipo>1</tipo>
+			<nome>AMAZONAS DIST MA</nome>
+		</Filial>
+		<Filial num="013PI004">
+			<cnpj>21426020000441</cnpj>
+			<tipo>1</tipo>
+			<nome>DISTRIBUIDORA NACIONAL PI</nome>
+		</Filial>
+		<Filial num="015PE001">
+			<cnpj>31646850000195</cnpj>
+			<tipo>1</tipo>
+			<nome>CENTRAL IMPORTADORA</nome>
+		</Filial>
+		<Filial num="016AC002">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Tyres.AC</nome>
+		</Filial>
+		<Filial num="016RO001">
+			<cnpj>39337191000117</cnpj>
+			<tipo>1</tipo>
+			<nome>Tyres.RO</nome>
+		</Filial>
+		<Filial num="017RO001">
+			<cnpj>34226139000170</cnpj>
+			<tipo>1</tipo>
+			<nome>NORTE TIRES</nome>
+		</Filial>
+		<Filial num="017RO003">
+			<cnpj>34226139000331</cnpj>
+			<tipo>1</tipo>
+			<nome>NORTE TIRES</nome>
+		</Filial>
+		<Filial num="017AC002">
+			<cnpj>34226139000170</cnpj>
+			<tipo>1</tipo>
+			<nome>NORTE TIRES</nome>
+		</Filial>
+		<Filial num="018RO001">
+			<cnpj>41947798000160</cnpj>
+			<tipo>1</tipo>
+			<nome>NORTE CENTER PORTO VELHO</nome>
+		</Filial>
+		<Filial num="020PE001">
+			<cnpj>31611386000100</cnpj>
+			<tipo>1</tipo>
+			<nome>TRANSPORTADORA MAGNUM</nome>
+		</Filial>
+			<Filial num="002MT021">
+			<cnpj>19403406002197</cnpj>
+			<tipo>1</tipo>
+			<nome>BAND.DIST.PRIMAVERA DO LESTE</nome>
+		</Filial>		
+	</Empresa>
+	<Empresa num="99">
+		<Filial num="01">
+			<cnpj>29067113022670</cnpj>
+			<tipo>1</tipo>
+			<nome>TESTE</nome>
+		</Filial>
+	</Empresa>
+	<chave>S8P1BBF59K1V8VBUEXMT4RDE82M79ZBIF4NZIR7L</chave>
+	<senha>abc123</senha>
+	<odbc>inform</odbc>
+</liberacao-central-xml>

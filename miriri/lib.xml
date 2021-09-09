@@ -1,0 +1,18 @@
+<liberacao-central-xml>
+	<Empresa num="01">
+		<Filial num="01">
+			<cnpj>09090259000145</cnpj>
+			<tipo>1</tipo>
+			<nome>MIRIRI</nome>
+		</Filial>		
+	</Empresa>
+	<Empresa num="99">
+		<Filial num="01">
+			<cnpj>09090259000145</cnpj>
+			<tipo>1</tipo>
+			<nome>Miriri</nome>
+		</Filial>		
+	</Empresa>
+	<chave>S8P1BBF59K1V8VBUEXMT4RDE82M79ZBIF4NZIR7L</chave>
+	<senha>123abc</senha>
+</liberacao-central-xml>
