@@ -152,6 +152,11 @@
 			<tipo>1</tipo>
 			<nome>MZ-AB2</nome>
 		</Filial>
+		<Filial num="35"> 
+			<cnpj>29067113041542</cnpj>
+			<tipo>1</tipo>
+			<nome>CPV</nome>
+		</Filial>
 		<Filial num="77">
 			<cnpj>29067113013921</cnpj>
 			<tipo>1</tipo>
