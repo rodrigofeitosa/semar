@@ -285,10 +285,15 @@
 			<tipo>1</tipo>
 			<nome>TRANSPORTADORA MAGNUM</nome>
 		</Filial>
-			<Filial num="002MT021">
+		<Filial num="002MT021">
 			<cnpj>19403406002197</cnpj>
 			<tipo>1</tipo>
 			<nome>BAND.DIST.PRIMAVERA DO LESTE</nome>
+		</Filial>	
+		<Filial num="002MG024">
+			<cnpj>19403406002430</cnpj>
+			<tipo>1</tipo>
+			<nome>BAND.DIST.</nome>
 		</Filial>		
 	</Empresa>
 	<Empresa num="99">
