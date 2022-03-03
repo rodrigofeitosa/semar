@@ -300,11 +300,6 @@
 			<tipo>1</tipo>
 			<nome>?</nome>
 		</Filial>	
-		<Filial num="001RO006">
-			<cnpj>10783660000816</cnpj>
-			<tipo>1</tipo>
-			<nome>?</nome>
-		</Filial>	
 	</Empresa>
 	<Empresa num="99">
 		<Filial num="01">
