@@ -25,11 +25,6 @@
 			<tipo>1</tipo>
 			<nome>Band.Imp.RO</nome>
 		</Filial>
-		<Filial num="001RO005">
-			<cnpj>39337191000117</cnpj>
-			<tipo>1</tipo>
-			<nome>Band.Imp.RO</nome>
-		</Filial>
 		<Filial num="002BA020">
 			<cnpj>39337191000117</cnpj>
 			<tipo>1</tipo>
@@ -300,6 +295,21 @@
 			<tipo>1</tipo>
 			<nome>?</nome>
 		</Filial>	
+		<Filial num="022MA002">
+			<cnpj>43339317000240</cnpj>
+			<tipo>1</tipo>
+			<nome>MARAJOARA DISTRIBUIDORA MA</nome>
+		</Filial>
+		<Filial num="022TO003">
+			<cnpj>43339317000321</cnpj>
+			<tipo>1</tipo>
+			<nome>MARAJOARA DISTRIBUIDORA TO</nome>
+		</Filial>
+		<Filial num="001RO006">
+			<cnpj>10783660000816</cnpj>
+			<tipo>1</tipo>
+			<nome>BAND IMPORTADORA GUAJARÁ MIRIM</nome>
+		</Filial>
 	</Empresa>
 	<Empresa num="99">
 		<Filial num="01">
