@@ -35,6 +35,11 @@
 			<tipo>1</tipo>
 			<nome>PUBLIKIMAGEM FILIAL PORTO ALEGRE RS</nome>
 		</Filial>
+		<Filial num="0115">
+			<cnpj>05688475001612/cnpj>
+			<tipo>1</tipo>
+			<nome>PUBLIKIMAGEM FILIAL GOIANIA</nome>
+		</Filial>
 		<Filial num="0201">
 			<cnpj>11412683000100</cnpj>
 			<tipo>1</tipo>
@@ -95,6 +100,11 @@
 			<tipo>1</tipo>
 			<nome>GLOBALSUN - FILIAL BELO HORIZONTE</nome>
 		</Filial>
+		<Filial num="0607">
+			<cnpj>19923737000708</cnpj>
+			<tipo>1</tipo>
+			<nome>GLOBALSUN - FILIAL CAREACU</nome>
+		</Filial>			
 	</Empresa>
 	<Empresa num="99">
 		<Filial num="01">
