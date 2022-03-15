@@ -70,6 +70,16 @@
 			<tipo>1</tipo>
 			<nome>Band. Dist. MT2</nome>
 		</Filial>
+		<Filial num="002MT025">
+			<cnpj>19403406002510</cnpj>
+			<tipo>1</tipo>
+			<nome>Band. Dist. ALTA FLORESTA</nome>
+		</Filial>
+		<Filial num="002MT026">
+			<cnpj>19403406002600</cnpj>
+			<tipo>1</tipo>
+			<nome>Band. Dist. TANGARA DA SERRA</nome>
+		</Filial>
 		<Filial num="002PE001">
 			<cnpj>39337191000117</cnpj>
 			<tipo>1</tipo>
@@ -308,7 +318,7 @@
 		<Filial num="001RO006">
 			<cnpj>10783660000816</cnpj>
 			<tipo>1</tipo>
-			<nome>BAND IMPORTADORA GUAJAR¡ MIRIM</nome>
+			<nome>BAND IMPORTADORA GUAJAR√Å MIRIM</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="99">
