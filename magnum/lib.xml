@@ -28,7 +28,12 @@
 		<Filial num="002BA020">
 			<cnpj>39337191000117</cnpj>
 			<tipo>1</tipo>
-			<nome>Band.Dist.BA</nome>
+			<nome>Band.Dist.BA 20</nome>
+		</Filial>
+		<Filial num="002BA023">
+			<cnpj>19403406002359</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.BA 23</nome>
 		</Filial>
 		<Filial num="002MG017">
 			<cnpj>39337191000117</cnpj>
