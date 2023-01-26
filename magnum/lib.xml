@@ -28,7 +28,12 @@
 		<Filial num="002BA020">
 			<cnpj>39337191000117</cnpj>
 			<tipo>1</tipo>
-			<nome>Band.Dist.BA</nome>
+			<nome>Band.Dist.BA 20</nome>
+		</Filial>
+		<Filial num="002BA023">
+			<cnpj>19403406002359</cnpj>
+			<tipo>1</tipo>
+			<nome>Band.Dist.BA 23</nome>
 		</Filial>
 		<Filial num="002MG017">
 			<cnpj>39337191000117</cnpj>
@@ -56,19 +61,19 @@
 			<nome>Band.Dist. Rio Verde</nome>
 		</Filial>
 		<Filial num="002MT002">
-			<cnpj>39337191000117</cnpj>
+			<cnpj>19403406000496</cnpj>
 			<tipo>1</tipo>
-			<nome>Band.Dist.MT</nome>
+			<nome>Band.Dist.MT SINOP</nome>
 		</Filial>
 		<Filial num="002MT019">
 			<cnpj>19403406001972</cnpj>
 			<tipo>1</tipo>
-			<nome>Band Dist MT</nome>
+			<nome>Band Dist MT CUIABA</nome>
 		</Filial>
 		<Filial num="002MT021">
-			<cnpj>19403406001972</cnpj>
+			<cnpj>19403406002197</cnpj>
 			<tipo>1</tipo>
-			<nome>Band. Dist. MT2</nome>
+			<nome>Band. Dist. PRIMAVERA DO LEST</nome>
 		</Filial>
 		<Filial num="002MT025">
 			<cnpj>19403406002510</cnpj>
