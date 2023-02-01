@@ -6,6 +6,13 @@
 			<nome>CIA TEXTIL PE DE SERRA</nome>
 		</Filial>
 	</Empresa>
+	<Empresa num="07">
+		<Filial num="01">
+			<cnpj>08385677000105</cnpj>
+			<tipo>1</tipo>
+			<nome>LATICINIO VENEZA</nome>
+		</Filial>
+	</Empresa>
 	<chave>S8P1BBF59K1V8VBUEXMT4RDE82M79ZBIF4NZIR7L</chave>
 	<senha>nada</senha>
 	<odbc>nada</odbc>
