@@ -1,0 +1,54 @@
+<liberacao-central-xml>
+	<Empresa num="06">
+		<Filial num="08501">
+			<cnpj>14684662000132</cnpj>
+			<tipo>1</tipo>
+			<nome>MANEY-ARICA</nome>
+		</Filial>
+		<Filial num="08601">
+			<cnpj>80336233000107</cnpj>
+			<tipo>1</tipo>
+			<nome>MANEY-CASA PEDRA</nome>
+		</Filial>
+		<Filial num="08801">
+			<cnpj>12431395000166</cnpj>
+			<tipo>1</tipo>
+			<nome>MANEY-PARA</nome>
+		</Filial>
+		<Filial num="09101">
+			<cnpj>03328459000107</cnpj>
+			<tipo>1</tipo>
+			<nome>NOVA LACERDA</nome>
+		</Filial>
+		<Filial num="09201">
+			<cnpj>35933762000125</cnpj>
+			<tipo>1</tipo>
+			<nome>KIN MINERACAO</nome>
+		</Filial>
+		<Filial num="09901">
+			<cnpj>36617291000109</cnpj>
+			<tipo>1</tipo>
+			<nome>RIVER GOLD</nome>
+		</Filial>
+		<Filial num="10201">
+			<cnpj>40371977000130</cnpj>
+			<tipo>1</tipo>
+			<nome>GULD MINERACAO - MATRIZ</nome>
+		</Filial>
+		<Filial num="10201">
+			<cnpj>40371977000130</cnpj>
+			<tipo>1</tipo>
+			<nome>GULD MINERACAO - MATRIZ</nome>
+		</Filial>
+	</Empresa>
+	<Empresa num="99">
+		<Filial num="01">
+			<cnpj>29067113022670</cnpj>
+			<tipo>1</tipo>
+			<nome>MZ-TST</nome>
+		</Filial>
+	</Empresa>
+	<chave>S8P1BBF59K1V8VBUEXMT4RDE82M79ZBIF4NZIR7L</chave>
+	<senha>nada</senha>
+ 	<odbc>nada</odbc> 
+</liberacao-central-xml>
