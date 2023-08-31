@@ -2,47 +2,47 @@
 	<Empresa num="01">
 		<Filial num="01">
 			<cnpj>01797671000198</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI</nome>
 		</Filial>		
 		<Filial num="03">
 			<cnpj>01797671000430</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/GV</nome>
 		</Filial>
 		<Filial num="04">
 			<cnpj>01797671001402</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/CF</nome>
 		</Filial>
 		<Filial num="05">
 			<cnpj>01797671002301</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/CP</nome>
 		</Filial>
 		<Filial num="06">
 			<cnpj>01797671004347</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/AB</nome>
 		</Filial>
 		<Filial num="07">
 			<cnpj>01797671004428</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/SP</nome>
 		</Filial>
 		<Filial num="08">
 			<cnpj>01797671004509</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/ES</nome>
 		</Filial>
 		<Filial num="09">
 			<cnpj>01797671004851</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/EN</nome>
 		</Filial>
 		<Filial num="31">
 			<cnpj>01797671004690</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-VI/IT</nome>
 		</Filial>		
 	</Empresa>
@@ -171,81 +171,81 @@
 	<Empresa num="10">
 		<Filial num="01">
 			<cnpj>29067113013921</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-MO</nome>
 		</Filial>
 		<Filial num="02">
 			<cnpj>29067113014901</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-MO/P2</nome>
 		</Filial>
 		<Filial num="03">
 			<cnpj>29067113020464</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-MO/RB</nome>
 		</Filial>
 		<Filial num="04">
 			<cnpj>29067113020707</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-MO/SH</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="11">
 		<Filial num="01">
 			<cnpj>05659785001951</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-PA</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="12">
 		<Filial num="01">
 			<cnpj>29067113023560</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-IB</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="20">
 		<Filial num="01">
 			<cnpj>01797671004266</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-AB</nome>
 		</Filial>
 		<Filial num="02">
 			<cnpj>01797671000350</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-AB/AI</nome>
 		</Filial>
 		<Filial num="04">
 			<cnpj>01797671001402</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-AB/CF</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="30">
 		<Filial num="01">
 			<cnpj>05659785003733</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-BA</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="40">
 		<Filial num="01">
 			<cnpj>29067113022670</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-MN</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="50">
 		<Filial num="01">
 			<cnpj>02125396000129</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-IBEC</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="99">
 		<Filial num="01">
 			<cnpj>29067113022670</cnpj>
-			<tipo>1</tipo>
+			<tipo>2</tipo>
 			<nome>MZ-TST</nome>
 		</Filial>
 	</Empresa>
