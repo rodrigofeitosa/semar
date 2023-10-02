@@ -168,6 +168,13 @@
 			<nome>PX-AMB</nome>
 		</Filial>
 	</Empresa>
+	<Empresa num="07">
+		<Filial num="30">
+			<cnpj>02126014000696</cnpj>
+			<tipo>1</tipo>
+			<nome>MZ</nome>
+		</Filial>
+	</Empresa>
 	<Empresa num="10">
 		<Filial num="01">
 			<cnpj>29067113013921</cnpj>
