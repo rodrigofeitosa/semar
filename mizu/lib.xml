@@ -162,6 +162,11 @@
 			<tipo>1</tipo>
 			<nome>CMC</nome>
 		</Filial>
+		<Filial num="41"> 
+			<cnpj>29067113044991</cnpj>
+			<tipo>1</tipo>
+			<nome>SANTAREM-FBE</nome>
+		</Filial>
 		<Filial num="77">
 			<cnpj>29067113013921</cnpj>
 			<tipo>1</tipo>
