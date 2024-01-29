@@ -1,0 +1,9 @@
+<liberacao-central-controle>
+    <Empresa num="02">
+        <Filial num="17">
+            <cnpj>29067113040813</cnpj>
+			<tipo>1</tipo>
+			<nome>FB1</nome>
+        </Filial>
+    </Empresa>
+</liberacao-central-controle>
