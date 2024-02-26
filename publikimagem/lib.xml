@@ -105,6 +105,11 @@
 			<tipo>1</tipo>
 			<nome>GLOBALSUN - FILIAL CAREACU</nome>
 		</Filial>			
+		<Filial num="0608">
+			<cnpj>19923737000880</cnpj>
+			<tipo>1</tipo>
+			<nome>GLOBALSUN - MORENO/PE</nome>
+		</Filial>			
 	</Empresa>
 	<Empresa num="99">
 		<Filial num="01">
