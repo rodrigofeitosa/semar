@@ -137,6 +137,11 @@
 			<tipo>1</tipo>
 			<nome>MZ-MO</nome>
 		</Filial>
+		<Filial num="29">
+			<cnpj>29067113020464</cnpj>
+			<tipo>1</tipo>
+			<nome>MZ-RB</nome>
+		</Filial>
 		<Filial num="31">
 			<cnpj>29067113035577</cnpj>
 			<tipo>1</tipo>
