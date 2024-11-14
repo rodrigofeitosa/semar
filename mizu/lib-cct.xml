@@ -1,9 +1,26 @@
 <liberacao-central-controle>
     <Empresa num="02">
+        <Filial num="13">
+            <cnpj>29067113031741</cnpj>
+			<tipo>1</tipo>
+			<nome>MZPA</nome>
+        </Filial>
+        <Filial num="14">
+            <cnpj>29067113036972</cnpj>
+			<tipo>1</tipo>
+			<nome>MZAJ</nome>
+        </Filial>
         <Filial num="17">
             <cnpj>29067113040813</cnpj>
 			<tipo>1</tipo>
-			<nome>FB1</nome>
+			<nome>FBE</nome>
+        </Filial>
+    </Empresa>
+    <Empresa num="07">
+        <Filial num="30">
+            <cnpj>02126014000696</cnpj>
+			<tipo>1</tipo>
+			<nome>FSO/IRO</nome>
         </Filial>
     </Empresa>
 </liberacao-central-controle>
