@@ -177,6 +177,11 @@
 			<tipo>1</tipo>
 			<nome>PX-AMB</nome>
 		</Filial>
+		<Filial num="42">
+			<cnpj>29067113045882</cnpj>
+			<tipo>1</tipo>
+			<nome>CTN</nome>
+		</Filial>
 	</Empresa>
 	<Empresa num="07">
 		<Filial num="30">
