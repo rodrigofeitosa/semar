@@ -183,13 +183,6 @@
 			<nome>CTN</nome>
 		</Filial>
 	</Empresa>
-	<Empresa num="03">
-		<Filial num="01">
-			<cnpj>15129010000107</cnpj>
-			<tipo>1</tipo>
-			<nome>CIMAR</nome>
-		</Filial>
-	</Empresa>
 	<Empresa num="07">
 		<Filial num="30">
 			<cnpj>02126014000696</cnpj>
