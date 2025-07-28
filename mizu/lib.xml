@@ -167,6 +167,11 @@
 			<tipo>1</tipo>
 			<nome>FSO</nome>
 		</Filial>
+		<Filial num="40">
+			<cnpj>29067113044053</cnpj>
+			<tipo>1</tipo>
+			<nome>CE-FBA</nome>
+		</Filial>
 		<Filial num="41"> 
 			<cnpj>29067113044991</cnpj>
 			<tipo>1</tipo>
