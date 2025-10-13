@@ -177,15 +177,20 @@
 			<tipo>1</tipo>
 			<nome>SANTAREM-FBE</nome>
 		</Filial>
-		<Filial num="77">
-			<cnpj>29067113013921</cnpj>
-			<tipo>1</tipo>
-			<nome>PX-AMB</nome>
-		</Filial>
 		<Filial num="42">
 			<cnpj>29067113045882</cnpj>
 			<tipo>1</tipo>
 			<nome>CTN</nome>
+		</Filial>
+		<Filial num="43"> 
+			<cnpj>29067113047400</cnpj>
+			<tipo>1</tipo>
+			<nome>CMP</nome>
+		</Filial>
+		<Filial num="77">
+			<cnpj>29067113013921</cnpj>
+			<tipo>1</tipo>
+			<nome>PX-AMB</nome>
 		</Filial>
 	</Empresa>
 	<Empresa num="07">
