@@ -187,6 +187,11 @@
 			<tipo>1</tipo>
 			<nome>CMP</nome>
 		</Filial>
+		<Filial num="44"> 
+			<cnpj>29067113046692</cnpj>
+			<tipo>1</tipo>
+			<nome>CJN</nome>
+		</Filial>
 		<Filial num="77">
 			<cnpj>29067113013921</cnpj>
 			<tipo>1</tipo>
