@@ -41,6 +41,15 @@
 			<nome>GULD MINERACAO - MATRIZ</nome>
 		</Filial>
 	</Empresa>
+
+	<Empresa num="14">
+		<Filial num="08901">
+			<cnpj>20391326000102</cnpj>
+			<tipo>1</tipo>
+			<nome>POC- PRAIA DE MAROBA</nome>
+		</Filial>
+	</Empresa>
+	
 	<Empresa num="99">
 		<Filial num="01">
 			<cnpj>29067113022670</cnpj>
